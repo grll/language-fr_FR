@@ -8850,7 +8850,7 @@ Successful,Réussi
 "Merge conflict with existing synonym group(s): %1","Fusionner le conflit avec le(s) groupe(s) de synonymes existant(s) : %1"
 "    All Store Views","    Toutes les vues de magasin"
 "Are you sure you want to delete synonym group with id: %1?","Êtes-vous certain(e) de vouloir supprimer le groupe de synonymes portant l'identifiant : %1 ?"
-"Search entire store here...","Rechercher dans tout le magasin..."
+"Search entire store here...","Que Recherchez-Vous ?"
 "There are no search terms available.","Aucun terme de recherche disponible."
 "Search Engine","Moteur de recherche"
 Hits,Vues
